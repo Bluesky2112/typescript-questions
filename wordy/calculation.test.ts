@@ -1,7 +1,7 @@
 import { parse, calculate } from './calculation';
 import { Operator } from './util';
 
-xdescribe('Calculation engine fixture', () => {
+describe('Calculation engine fixture', () => {
   it('Should parse iteration 0 normally', () => {
     const numbers: number[] = [];
     const operators: Operator[] = [];
