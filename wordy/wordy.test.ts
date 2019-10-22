@@ -1,6 +1,6 @@
 import { WordProblem, ArgumentError } from './wordy'
 
-describe('Word Problem', () => {
+fdescribe('Word Problem', () => {
 
   it('add 1', () => {
     const question = 'What is 1 plus 1?'
